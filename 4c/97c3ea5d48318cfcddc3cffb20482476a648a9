@@ -1,0 +1,19 @@
+"src/Freedom Bank-kz_15492/categories/Базовый кешбэк.json"
+  s_d02b13409db3df::t_5452f1d44dc8f6 307
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4c97c3ea5d48318cfcddc3cffb20482476a648a9",
+  "prompts": {},
+  "sessions": {
+    "s_d02b13409db3df": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20399-6d75-7862-a7f0-08d214f00710",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Slava Shahoika <vistova@gmail.com>"
+    }
+  }
+}
